@@ -1,7 +1,7 @@
 {
   "baidu": {
-    "name": "百度",
-    "url": "https://www.baidu.com/s?wd=",
+    "name": "SeaXNG",
+    "url": "https://ss.mozui.cn/s?wd=",
     "translation": "https://fanyi.baidu.com/#zh/en/",
     "icon": "baidu"
   },
@@ -13,9 +13,15 @@
   },
   "google": {
     "name": "Google",
-    "url": "https://www.google.com/search?q=",
+    "url": "https://gg.google.com/search?q=",
     "translation": "https://translate.google.com/?text=",
     "icon": "google"
+  },
+  "baidu": {
+    "name": "百度",
+    "url": "https://www.baidu.com/s?wd=",
+    "translation": "https://fanyi.baidu.com/#zh/en/",
+    "icon": "baidu"
   },
   "sogou": {
     "name": "搜狗",
