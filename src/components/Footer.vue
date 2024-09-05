@@ -3,10 +3,10 @@
     <div class="copyright">
       <span class="site-name">{{ siteName }}</span>
       <span class="year">{{ fullYear }}</span>
-      <span class="anthor" @click="jumpTo(copyrightLink ?? 'https://github.com/imsyy/Snavigation')">
+      <span class="anthor" @click="jumpTo(copyrightLink ?? 'https://github.com/koujiangqq/Snavigation')">
         {{ siteAnthor }}
       </span>
-      <span v-if="icp" class="icp" @click="jumpTo('https://beian.miit.gov.cn')">
+      <span v-if="icp" class="icp" @click="jumpTo('https://www.baidu.com')">
         {{ icp }}
       </span>
       <span class="about" @click="aboutSiteModal = true">关于</span>
